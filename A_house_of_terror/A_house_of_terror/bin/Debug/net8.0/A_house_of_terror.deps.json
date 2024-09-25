@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A_house_of_terror/1.0.0": {
+        "runtime": {
+          "A_house_of_terror.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A_house_of_terror/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
